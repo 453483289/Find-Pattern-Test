@@ -1,7 +1,10 @@
 # Find-Pattern-Test
 
+Used this as a reference:
+https://github.com/quarkslab/dreamboot/blob/master/QuarksUBootkit/hooks.asm#L226
+
 ## License
-Copyright (C) 2016 dude719
+Copyright (C) 2016 dude719, Quarkslab
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

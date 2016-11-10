@@ -1,6 +1,6 @@
 ; ++
 ;
-; Copyright (c) dude719.  All rights reserved.
+; Copyright (c) dude719, Quarkslab.  All rights reserved.
 ;
 ; Module:
 ;
